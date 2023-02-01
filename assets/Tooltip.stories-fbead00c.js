@@ -1,0 +1,2 @@
+import{e as t,T as o}from"./index-ae5b7764.js";import{j as e}from"./jsx-runtime-1becbe17.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";const s={title:"Data display/Tooltip",component:t,args:{tooltipText:"Tooltip text exemple",triggerElement:e(o,{children:"Tooltip exemple"})},argTypes:{triggerElement:{control:{type:null}}}},a={},n=["Primary"];export{a as Primary,n as __namedExportsOrder,s as default};
+//# sourceMappingURL=Tooltip.stories-fbead00c.js.map

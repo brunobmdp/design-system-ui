@@ -1,0 +1,2 @@
+import{A as t}from"./index-ae5b7764.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/brunobmdp.png",alt:"Bruno Marques"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-dfdb4dfc.js.map
