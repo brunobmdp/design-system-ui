@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@bmdp-ui/eslint-config",
   "license": "ISC",
   "private": true,
   "main": "index.js",
